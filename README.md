@@ -9,7 +9,7 @@ A cute and fun interactive Valentine proposal built using **HTML, CSS, and JavaS
 - Cute success screen ❤️
 
 ## 🚀 Live Demo
-👉 https://rpspoonia.github.io/will-you-be-my-valentine/
+👉 https://dapper-manatee-b656ca.netlify.app/
 
 ## 🛠️ Tech Stack
 - HTML
